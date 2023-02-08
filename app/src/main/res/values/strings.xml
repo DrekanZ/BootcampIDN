@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">BootcampFirstApplication</string>
+    <string name="gameCategory1"><b>Military</b></string>
+    <string name="gameCategory2"><b>MMO</b></string>
+    <string name="gameCategory3"><b>Suffering</b></string>
+    <string name="about_title"><b>About Game</b></string>
+    <string name="developer_title"><b>Developers</b></string>
+    <string name="developer"><i>Gaijin Entertainment</i></string>
+    <string name="parahraph">War Thunder is a military simulation game that puts players in the driver\'s seat of their favorite military vehicles. From tanks to aircraft to ships, players can choose from a wide range of military vehicles to engage in battles against other players from around the world. The game\'s environment is designed to be realistic, with detailed graphics and sound effects that create an immersive gaming experience.
+
+Despite its exciting gameplay, War Thunder is not without its flaws. Some players have expressed frustration with the pay-to-win elements that can unbalance the game. However, the vast array of vehicles and customizable options available make "War Thunder" a unique and challenging experience for players of all skill levels. Whether you're a seasoned gamer or a newcomer, you're sure to find something to enjoy in this military simulation game.
+
+"War Thunder" is a must-try for fans of military simulation games. The game's combination of realistic graphics and intense gameplay will keep you engaged for hours on end. Whether you're battling it out in tanks, aircraft, or ships, "War Thunder" is sure to provide you with a challenging and enjoyable gaming experience. So why wait? Download "War Thunder" today and join the fight!
+</string>
+    <string name="add_to_favorites">Add to Favorites</string>
 </resources>
