@@ -156,6 +156,8 @@
             <TextView
                 android:id="@+id/textViewGameParaphraph"
                 android:layout_width="match_parent"
+                android:gravity="fill_horizontal"
+                android:justificationMode="inter_word"
                 android:layout_height="wrap_content"
                 android:text="@string/parahraph"
                 android:textColor="@color/white"
