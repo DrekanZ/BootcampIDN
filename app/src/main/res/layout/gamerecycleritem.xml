@@ -4,10 +4,12 @@
     android:layout_width="wrap_content"
     android:layout_height="wrap_content">
 
-    <ImageView
+    <com.google.android.material.imageview.ShapeableImageView
         android:padding="10dp"
+        android:scaleType="centerCrop"
         android:id="@+id/imageViewGameItem"
         android:src="@drawable/imagegame"
+        app:shapeAppearanceOverlay="@style/ivStyle_Corners_Rounded"
         android:layout_width="300dp"
         android:layout_height="150dp"
         app:layout_constraintStart_toStartOf="parent"
